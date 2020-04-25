@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lab_1_Shostak</string>
+    <string name="Minus">-</string>
+    <string name="Plus">+</string>
+    <string name="Result">Результат:</string>
+    <string name="delenie">/</string>
+    <string name="umnoz">*</string>
+</resources>
